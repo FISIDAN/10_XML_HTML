@@ -1,15 +1,14 @@
-<!-- Firma -->
-<Firma>
-    <Abteilung Buchhaltung>
-        <MA: Lehmann>
-    </Abteilung Buchhaltung>
-    <Abteilung Produktion>
-        <MA: Breitner></MA: Breitner>
-        <MA: Paul></MA: Paul>
-        <MA: Degen></MA: Degen>
-    </Abteilung Produktion>
-    <Abteilung Vertrieb>
-        <MA: Schulz></MA: Schulz>
-        <MA: Meier></MA: Meier>
-    </Abteilung Vertrieb>
-</Firma>
+<firma>
+    <abteilung name="Buchhaltung">
+        <ma name="Lehmann"></ma>
+    </abteilung>
+    <abteilung name="Produktion">
+        <ma name="Breitner"></ma>
+        <ma name="Paul"></ma>
+        <ma name="Degen"></ma>
+    </abteilung>
+    <abteilung name="Vertrieb">
+        <ma name="Schulz"></ma>
+        <ma name="Meier"></ma>
+    </abteilung>
+</firma>
